@@ -1,0 +1,1 @@
+python "D:\pyton-codes2\opencvproject\camera_calibration.py" --image_dir "C:\Users\MS\Desktop\cyberova\aruco\source" --image_format "jpg" --prefix "" --square_size 0.018 --width 9 --height 6 --save_file "camera_calibration.yml"
